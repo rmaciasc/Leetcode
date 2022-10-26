@@ -33,4 +33,4 @@ class Solution:
 
 s = 'MCMXCIV'
 sol = Solution()
-sol.romanToInt(s)
+sol.romanToInt(s = s)
